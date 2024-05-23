@@ -19,3 +19,19 @@ In this project, our goal was to make our own version of the famous game ‘Snak
 - User can press enter to move to the game instruction screen
 
 ### Module 2 - Instructions Screen
+
+- This Screen will show the Instructions that the User should Follow to play the game.
+- These Instructions include keys to use and instructions on how they can score more points etc.
+- A Play button to launch the game
+
+### Module 3 - Game Play Screen
+
+- As the game begin the birds and plane start appearing on the screen the user will be able to move the plane up/down to avoid hitting the birds
+- Whenever the Plane hits the bird the plan crashes and score is decreased to -5.
+- There will be a timer and score (100 in start ) shown on the screen that is decreased when ever the user hits the bird.
+- User will win the game if he/she is able to maintain the score above 70 till the timer ends (3 mins).
+
+---
+
+## Contributors
+
