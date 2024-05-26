@@ -36,4 +36,4 @@ In this project, our goal was to make our own version of the famous game ‘Snak
 ### Contributors
 - [Syed Hammad Razi](https://github.com/syedhammadrazi)
 - [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)
-- Muhammad Shaheer
+- [Muhammad Shaheer](https://github.com/TheUnparalleledDragon)
